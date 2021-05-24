@@ -1,0 +1,15 @@
+{
+  "name": "patw3f",
+  "version": "1.0.0",
+  "description": "project story crucial bacon crunch other corn home athlete crater field motor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@polkadot/api": "^4.11.2",
+    "prom-client": "^13.1.0"
+  }
+}
